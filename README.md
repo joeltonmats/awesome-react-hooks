@@ -2,17 +2,9 @@
 
 > Awesome React Hooks Resources
 
-## Documentation
-
-- [React Hooks Docs](https://reactjs.org/docs/hooks-intro.html)
-
-## Discussions
-
-- [React Hooks RFC](https://github.com/reactjs/rfcs/pull/68)
 
 ## Videos
 
-- [🎬 ReactConf 2018: React Today and Tomorrow by Sophie Alpert and Dan Abramov](https://youtu.be/V-QO-KO90iQ) Official announcement and first demo.
 - [🎬 ReactConf 2018: 90% Cleaner React by Ryan Florence](https://youtu.be/wXLf18DsV-I)
 - [🎬 React Hooks: A Complete Introduction by Harry Wolff](https://youtu.be/jd8R0a2Ur8Q)
 - [🎬 React Hooks playlist by Ben Awad](https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ)
