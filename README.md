@@ -2,7 +2,6 @@
 
 > Awesome React Hooks Resources
 
-
 ## Videos
 
 - [🎬 ReactConf 2018: 90% Cleaner React by Ryan Florence](https://youtu.be/wXLf18DsV-I)
@@ -23,7 +22,7 @@
 - [CodeSandbox Starter Kit](https://codesandbox.io/s/7y6o4282lq)
 - [React Hooks Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=antmdvs.vscode-react-hooks-snippets)
 - [`hook-into-props`](https://github.com/juliettepretot/hook-into-props/tree/1e069a6c01c2a783100f2fea7709f56d8166a97e) Helper to build HOCs using hooks. Useful for using hooks with class components.
-- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use****** everywhere, Functional or Class Components
+- [`react-universal-hooks`](https://github.com/salvoravida/react-universal-hooks) React Universal Hooks: just use**\*\*** everywhere, Functional or Class Components
 - [Jooks](https://github.com/antoinejaussoin/jooks) Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)
 - [`react-hooks-testing-library`](https://react-hooks-testing-library.com/) Library to create unit tests for custom React hooks.
 
@@ -233,7 +232,7 @@
 - [`useIsTyping`](https://github.com/KATT/use-is-typing) Hook to see if the user is typing within a textarea or input
 - [`useKeyCapture`](https://github.com/pranesh239/use-key-capture) ⌨️ A simple hook to make keyDown listening event easier.
 - [`usePosition`](https://github.com/tranbathanhtung/usePosition) React hook to get position top left of an element.
-- [`useReducerWithEffects`](https://github.com/frankiesardo/use-reducer-with-effects) React Hook that colocates reducer and side effects    
+- [`useReducerWithEffects`](https://github.com/frankiesardo/use-reducer-with-effects) React Hook that colocates reducer and side effects
 - [`useReducerWithLocalStorage`](https://github.com/Tweries/useReducerWithLocalStorage) React hook that adds local storage support to the `useReducer` hook
 - [`useScreenType`](https://github.com/pankod/react-hooks-screen-type) Determining screen size type for Bootstrap 4 grid.
 - [`useScreenType`](https://github.com/wednesday-solutions/react-screentype-hook) React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.
@@ -242,3 +241,7 @@
 - [`useValueAfter`](https://github.com/bboydflo/use-value-after) Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)
 - [`useWindowOrientation`](https://github.com/tywmick/use-window-orientation) A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions
 - [`useWindowWidthBreakpoints`](https://github.com/tywmick/use-window-width-breakpoints) A hook for using (Bootstrap-inspired) window width breakpoints
+
+### Temp to remove
+
+[git pull from upstream](https://medium.com/@sahoosunilkumar/how-to-update-a-fork-in-git-95a7daadc14e)
